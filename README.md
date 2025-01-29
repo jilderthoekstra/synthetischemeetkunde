@@ -2,6 +2,7 @@
 
 Voorbeeld hoe je geogebra in combinatie met RevealJS kan gebruiken om een leuke presentatie te maken die in de browser kan worden bekeken.
 Bekijk hier de presentatie: https://jildert.com/studie/synthetischemeetkunde/eindpresentatie/
+_(Met F11 kan je in de meeste browser overschakelen naar fullscreen en weer terug)_
 
 Sinds deze geogebra update https://www.reddit.com/r/geogebra/comments/1c5cfvo/breaking_change_javascript_sandboxing_from_v839/ zijn een hoop dingen niet meer mogelijk met javascript die binnen de geogebra applet sandbox draait. De oplossing hiervoor is om de javascript buiten de applet de draaien. Door bijvoorbeeld de deployggb.js script van geogebra te gebruiken. Deze manier is hier ook gebruikt. Een eventueel nadeel hiervan is dat je het wel ergens zelf moet gaan hosten.
 
